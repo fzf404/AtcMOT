@@ -1,0 +1,4 @@
+.idea
+models/fairmot_dla34.pth
+results
+src/rtmp.py
