@@ -2,7 +2,7 @@
 
 > 智能行人交通控制
 
-![show](https://cdn.jsdelivr.net/gh/fzf404/image/AtcMOT/show.webp)
+![show](https://img.fzf404.art/atcmot/show.webp)
 
 ## 前端
 
